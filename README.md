@@ -41,19 +41,24 @@ Visualization
 Feature Importance
 Prediction Comparison Graphs
 Decision Tree Visualization
+
 📈 Results
 Random Forest performed better than Decision Tree in terms of accuracy and generalization.
 Visualization shows improved prediction alignment with actual data distribution.
+
+
 📁 Output
 Trained models
 Graphical analysis
 Final prediction file (submission.csv)
+
 🛠️ Technologies Used
 Python
 Pandas, NumPy
 Scikit-learn
 Matplotlib, Seaborn
 Jupyter Notebook
+
 📌 Conclusion
 The project demonstrates how machine learning models, especially ensemble methods like Random Forest, can significantly improve customer segmentation and support data-driven business decisions.
 
